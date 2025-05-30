@@ -1,0 +1,14 @@
+{
+	"name": "slower-trains",
+	"version": "1.0.0",
+	"factorio_version": "2.0",
+	"title": "Slower Trains",
+	"author": "JDCalvert",
+	"description": "Reduce the speed of trains to be more realistic.",
+	"homepage": "",
+	"source": "https://github.com/JDCalvert/factorio-slower-trains",
+	"dependencies": [
+		"base",
+		"? Mini_Trains >= 2.0.0"
+	]
+}

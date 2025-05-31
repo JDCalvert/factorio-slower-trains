@@ -1,4 +1,4 @@
-# Slower Trains
+# JD's Slower Trains
 Small Factorio mod to reduce the speed of trains to semi-realistic levels.
 
 ## Fuel Bonuses
